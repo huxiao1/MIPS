@@ -1,1 +1,2 @@
 # MIPS
+simulator for pipeline
