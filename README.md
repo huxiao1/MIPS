@@ -1,2 +1,2 @@
 # MIPS
-simulator for pipeline
+simulator for a pipelined processor
